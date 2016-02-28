@@ -1,0 +1,1 @@
+<link href="<?= \Idno\Core\Idno::site()->config()->getDisplayURL() ?>Themes/nature/css/default.css" rel="stylesheet">
